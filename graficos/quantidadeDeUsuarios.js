@@ -12,7 +12,7 @@ const infos = [
         y: quantidadeDeUsuarios,
         type: 'bar',
         marker: {
-          color: getCSS(--cor-primaria)
+          color: getCSS("--cor-primaria")
         }
     }
   ]
