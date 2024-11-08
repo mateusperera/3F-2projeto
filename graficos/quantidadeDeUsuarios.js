@@ -40,7 +40,7 @@ title: {
 yaxis: {
   tickfont:tickfont,
   title: {
-    text: 'Nome das redes sociais',
+    text: 'Milhões de usuários ativos',
     font: {
       color:getCSS('--cor-segundaria')
 }
